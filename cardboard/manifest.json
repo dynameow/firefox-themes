@@ -1,0 +1,52 @@
+{
+    "manifest_version": 2,
+    "version": "1.0",
+    "name": "Cardboard",
+    "description": "A retro blue-gray and cardboard Firefox theme.",
+	"browser_specific_settings": {
+		"gecko": {
+			"id": "cardboard@dynameow"
+		}
+	},
+    "theme": {
+        "colors": {
+            "frame": "#82949e",
+            "frame_inactive": "#687677",
+
+            "toolbar": "#82949e",
+            "toolbar_text": "#4a5353",
+
+            "tab_background_text": "#4a5353",
+            "tab_selected": "#c8bfa5",
+            "tab_text": "#4a5353",
+
+            "toolbar_field": "#b3b5b2",
+            "toolbar_field_text": "#4a5353",
+            "toolbar_field_border": "#4a5353",
+            "toolbar_field_border_focus": "#4a5353",
+			"toolbar_field_focus": "#e5dfd3",
+			"toolbar_field_text_focus": "#4a5353",
+
+            "icons": "#4a5353",
+
+            "popup": "#b3b5b2",
+            "popup_text": "#4a5353",
+            "popup_border": "#4a5353",
+            "popup_highlight": "#c8bfa5",
+            "popup_highlight_text": "#4a5353",
+
+            "sidebar": "#b3b5b2",
+            "sidebar_text": "#4a5353",
+            "sidebar_highlight": "#c8bfa5",
+            "sidebar_highlight_text": "#4a5353",
+            "sidebar_border": "#4a5353",
+
+            "toolbar_top_separator": "#e5dfd3",
+            "toolbar_bottom_separator": "#687677"
+        },
+		"properties": {
+			"color_scheme": "light",
+			"content_color_scheme": "light"
+		}
+    }
+}
